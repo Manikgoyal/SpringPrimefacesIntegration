@@ -1,0 +1,3 @@
+test\service\user\mgmt\UserMgmtServiceImpl.class
+test\service\user\mgmt\IUserMgmtService.class
+test\service\pojo\Person.class
